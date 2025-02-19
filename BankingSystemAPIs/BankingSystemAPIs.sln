@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystemAPIs", "BankingSystemAPIs.csproj", "{747CE125-A668-4802-86D9-EB08F6484935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingSystemAPIsTests", "..\BankingSystemAPIsTests\BankingSystemAPIsTests.csproj", "{0708161A-8787-4A1E-A24B-C691B1C79CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747CE125-A668-4802-86D9-EB08F6484935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747CE125-A668-4802-86D9-EB08F6484935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747CE125-A668-4802-86D9-EB08F6484935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747CE125-A668-4802-86D9-EB08F6484935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0708161A-8787-4A1E-A24B-C691B1C79CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0708161A-8787-4A1E-A24B-C691B1C79CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0708161A-8787-4A1E-A24B-C691B1C79CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0708161A-8787-4A1E-A24B-C691B1C79CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
